@@ -1,0 +1,1487 @@
+fileFormatVersion: 2
+guid: 6143160770b35e94ab31cc95dbcb3773
+timeCreated: 1436077202
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Cylinder222
+    100002: Cylinder223
+    100004: Cylinder224
+    100006: Cylinder225
+    100008: Cylinder226
+    100010: Cylinder227
+    100012: Cylinder232
+    100014: Cylinder233
+    100016: Cylinder234
+    100018: Cylinder236
+    100020: Cylinder238
+    100022: Cylinder239
+    100024: Cylinder240
+    100026: Cylinder241
+    100028: Cylinder242
+    100030: Cylinder243
+    100032: Cylinder246
+    100034: Cylinder247
+    100036: Cylinder249
+    100038: Cylinder250
+    100040: Cylinder251
+    100042: Cylinder252
+    100044: Cylinder255
+    100046: Cylinder272
+    100048: Cylinder273
+    100050: Cylinder274
+    100052: Cylinder275
+    100054: Cylinder276
+    100056: Cylinder278
+    100058: Cylinder280
+    100060: Cylinder281
+    100062: Cylinder282
+    100064: Cylinder283
+    100066: Cylinder284
+    100068: Cylinder285
+    100070: Cylinder286
+    100072: Cylinder287
+    100074: Cylinder288
+    100076: Cylinder289
+    100078: Cylinder290
+    100080: Cylinder291
+    100082: Cylinder292
+    100084: Cylinder293
+    100086: Cylinder294
+    100088: Cylinder297
+    100090: Cylinder298
+    100092: Cylinder299
+    100094: Cylinder300
+    100096: Cylinder302
+    100098: Cylinder303
+    100100: Cylinder304
+    100102: Cylinder305
+    100104: Cylinder306
+    100106: Cylinder307
+    100108: Cylinder308
+    100110: Cylinder309
+    100112: Cylinder310
+    100114: Cylinder311
+    100116: Cylinder314
+    100118: Cylinder317
+    100120: Cylinder318
+    100122: Cylinder319
+    100124: Cylinder320
+    100126: Cylinder321
+    100128: Cylinder322
+    100130: Cylinder326
+    100132: Cylinder327
+    100134: Cylinder328
+    100136: Cylinder329
+    100138: Cylinder330
+    100140: Cylinder331
+    100142: Cylinder332
+    100144: Cylinder333
+    100146: Cylinder344
+    100148: Cylinder345
+    100150: Cylinder346
+    100152: Cylinder347
+    100154: Cylinder348
+    100156: Cylinder349
+    100158: Cylinder350
+    100160: Cylinder353
+    100162: Cylinder354
+    100164: Cylinder355
+    100166: Cylinder356
+    100168: Cylinder357
+    100170: Cylinder358
+    100172: Cylinder361
+    100174: Cylinder366
+    100176: Cylinder367
+    100178: Cylinder368
+    100180: Cylinder369
+    100182: Cylinder370
+    100184: Cylinder371
+    100186: Cylinder372
+    100188: Cylinder373
+    100190: Cylinder375
+    100192: Cylinder376
+    100194: Cylinder377
+    100196: Cylinder378
+    100198: Cylinder379
+    100200: Cylinder380
+    100202: Cylinder381
+    100204: Cylinder382
+    100206: Cylinder383
+    100208: Cylinder384
+    100210: Cylinder385
+    100212: Cylinder386
+    100214: Cylinder387
+    100216: Cylinder388
+    100218: Cylinder389
+    100220: Cylinder390
+    100222: Cylinder391
+    100224: Cylinder393
+    100226: Cylinder401
+    100228: Cylinder402
+    100230: Cylinder403
+    100232: Cylinder404
+    100234: Cylinder405
+    100236: Cylinder406
+    100238: Cylinder407
+    100240: Cylinder408
+    100242: Cylinder412
+    100244: Cylinder413
+    100246: Cylinder414
+    100248: Cylinder415
+    100250: Cylinder416
+    100252: Cylinder418
+    100254: Cylinder419
+    100256: Cylinder420
+    100258: Cylinder421
+    100260: Cylinder422
+    100262: Cylinder423
+    100264: Cylinder424
+    100266: Cylinder425
+    100268: Cylinder426
+    100270: Cylinder427
+    100272: Cylinder428
+    100274: Cylinder429
+    100276: Cylinder430
+    100278: Cylinder431
+    100280: Object143
+    100282: Object144
+    100284: Object145
+    100286: Object146
+    100288: Object151
+    100290: Object152
+    100292: Object153
+    100294: Object154
+    100296: Object155
+    100298: Object156
+    100300: Object157
+    100302: Object158
+    100304: Object159
+    100306: Object160
+    100308: Object161
+    100310: Object162
+    100312: Object163
+    100314: Object164
+    100316: Object165
+    100318: Object166
+    100320: Object167
+    100322: Object168
+    100324: Object169
+    100326: Object170
+    100328: Object171
+    100330: Object172
+    100332: Object173
+    100334: Object175
+    100336: rail strigh-perfect013
+    100338: rail strigh-perfect014
+    100340: rail strigh-perfect015
+    100342: rail strigh-perfect016
+    100344: rail strigh-perfect017
+    100346: rail strigh-perfect018
+    100348: rail strigh-perfect019
+    100350: rail strigh-perfect020
+    100352: rail strigh-perfect021
+    100354: rail stright283
+    100356: rail stright284
+    100358: rail stright285
+    100360: rail stright286
+    100362: rail stright287
+    100364: rail stright289
+    100366: rail stright290
+    100368: rail stright291
+    100370: rail stright293
+    100372: rail stright295
+    100374: rail stright296
+    100376: rail stright297
+    100378: rail stright298
+    100380: rail stright299
+    100382: rail stright301
+    100384: rail stright303
+    100386: rail stright305
+    100388: rail stright305_MeshPart0
+    100390: rail stright305_MeshPart1
+    100392: rail stright306
+    100394: rail stright307
+    100396: rail stright310
+    100398: rail stright320
+    100400: rail stright321
+    100402: rail stright322
+    100404: rail stright323
+    100406: rail stright324
+    100408: rail stright324_MeshPart0
+    100410: rail stright324_MeshPart1
+    100412: rail stright325
+    100414: rail stright327
+    100416: rail stright328
+    100418: rail stright329
+    100420: rail stright330
+    100422: rail stright331
+    100424: rail stright332
+    100426: rail stright333
+    100428: rail stright334
+    100430: rail stright335
+    100432: rail stright336
+    100434: rail stright337
+    100436: rail stright338
+    100438: rail stright339
+    100440: rail stright340
+    100442: rail stright342
+    100444: rail stright343
+    100446: rail stright345
+    100448: rail stright346
+    100450: rail stright348
+    100452: rail stright349
+    100454: rail stright350
+    100456: rail stright351
+    100458: rail stright352
+    100460: rail stright353
+    100462: rail stright354
+    100464: rail stright355
+    100466: rail stright358
+    100468: rail stright359
+    100470: rail stright360
+    100472: rail stright361
+    100474: rail stright362
+    100476: rail stright366
+    100478: rail stright367
+    100480: rail stright368
+    100482: rail stright369
+    100484: rail stright370
+    100486: rail stright371
+    100488: rail stright378
+    100490: rail stright381
+    100492: rail stright382
+    100494: rail stright383
+    100496: rail stright384
+    100498: rail stright385
+    100500: rail stright388
+    100502: rail stright393
+    100504: rail stright394
+    100506: rail stright395
+    100508: rail stright396
+    100510: rail stright397
+    100512: rail stright398
+    100514: rail stright399
+    100516: rail stright400
+    100518: rail stright402
+    100520: rail stright403
+    100522: rail stright404
+    100524: rail stright405
+    100526: rail stright406
+    100528: rail stright407
+    100530: rail stright409
+    100532: rail stright410
+    100534: rail stright412
+    100536: rail stright419
+    100538: rail stright421
+    100540: rail stright423
+    100542: rail stright424
+    100544: rail stright425
+    100546: rail stright426
+    100548: rail stright428
+    100550: rail stright429
+    100552: rail stright430
+    100554: rail stright431
+    100556: rail stright432
+    100558: rail stright433
+    100560: rail stright434
+    100562: rail stright435
+    100564: rail stright436
+    100566: rail stright437
+    100568: //RootNode
+    400000: Cylinder222
+    400002: Cylinder223
+    400004: Cylinder224
+    400006: Cylinder225
+    400008: Cylinder226
+    400010: Cylinder227
+    400012: Cylinder232
+    400014: Cylinder233
+    400016: Cylinder234
+    400018: Cylinder236
+    400020: Cylinder238
+    400022: Cylinder239
+    400024: Cylinder240
+    400026: Cylinder241
+    400028: Cylinder242
+    400030: Cylinder243
+    400032: Cylinder246
+    400034: Cylinder247
+    400036: Cylinder249
+    400038: Cylinder250
+    400040: Cylinder251
+    400042: Cylinder252
+    400044: Cylinder255
+    400046: Cylinder272
+    400048: Cylinder273
+    400050: Cylinder274
+    400052: Cylinder275
+    400054: Cylinder276
+    400056: Cylinder278
+    400058: Cylinder280
+    400060: Cylinder281
+    400062: Cylinder282
+    400064: Cylinder283
+    400066: Cylinder284
+    400068: Cylinder285
+    400070: Cylinder286
+    400072: Cylinder287
+    400074: Cylinder288
+    400076: Cylinder289
+    400078: Cylinder290
+    400080: Cylinder291
+    400082: Cylinder292
+    400084: Cylinder293
+    400086: Cylinder294
+    400088: Cylinder297
+    400090: Cylinder298
+    400092: Cylinder299
+    400094: Cylinder300
+    400096: Cylinder302
+    400098: Cylinder303
+    400100: Cylinder304
+    400102: Cylinder305
+    400104: Cylinder306
+    400106: Cylinder307
+    400108: Cylinder308
+    400110: Cylinder309
+    400112: Cylinder310
+    400114: Cylinder311
+    400116: Cylinder314
+    400118: Cylinder317
+    400120: Cylinder318
+    400122: Cylinder319
+    400124: Cylinder320
+    400126: Cylinder321
+    400128: Cylinder322
+    400130: Cylinder326
+    400132: Cylinder327
+    400134: Cylinder328
+    400136: Cylinder329
+    400138: Cylinder330
+    400140: Cylinder331
+    400142: Cylinder332
+    400144: Cylinder333
+    400146: Cylinder344
+    400148: Cylinder345
+    400150: Cylinder346
+    400152: Cylinder347
+    400154: Cylinder348
+    400156: Cylinder349
+    400158: Cylinder350
+    400160: Cylinder353
+    400162: Cylinder354
+    400164: Cylinder355
+    400166: Cylinder356
+    400168: Cylinder357
+    400170: Cylinder358
+    400172: Cylinder361
+    400174: Cylinder366
+    400176: Cylinder367
+    400178: Cylinder368
+    400180: Cylinder369
+    400182: Cylinder370
+    400184: Cylinder371
+    400186: Cylinder372
+    400188: Cylinder373
+    400190: Cylinder375
+    400192: Cylinder376
+    400194: Cylinder377
+    400196: Cylinder378
+    400198: Cylinder379
+    400200: Cylinder380
+    400202: Cylinder381
+    400204: Cylinder382
+    400206: Cylinder383
+    400208: Cylinder384
+    400210: Cylinder385
+    400212: Cylinder386
+    400214: Cylinder387
+    400216: Cylinder388
+    400218: Cylinder389
+    400220: Cylinder390
+    400222: Cylinder391
+    400224: Cylinder393
+    400226: Cylinder401
+    400228: Cylinder402
+    400230: Cylinder403
+    400232: Cylinder404
+    400234: Cylinder405
+    400236: Cylinder406
+    400238: Cylinder407
+    400240: Cylinder408
+    400242: Cylinder412
+    400244: Cylinder413
+    400246: Cylinder414
+    400248: Cylinder415
+    400250: Cylinder416
+    400252: Cylinder418
+    400254: Cylinder419
+    400256: Cylinder420
+    400258: Cylinder421
+    400260: Cylinder422
+    400262: Cylinder423
+    400264: Cylinder424
+    400266: Cylinder425
+    400268: Cylinder426
+    400270: Cylinder427
+    400272: Cylinder428
+    400274: Cylinder429
+    400276: Cylinder430
+    400278: Cylinder431
+    400280: Object143
+    400282: Object144
+    400284: Object145
+    400286: Object146
+    400288: Object151
+    400290: Object152
+    400292: Object153
+    400294: Object154
+    400296: Object155
+    400298: Object156
+    400300: Object157
+    400302: Object158
+    400304: Object159
+    400306: Object160
+    400308: Object161
+    400310: Object162
+    400312: Object163
+    400314: Object164
+    400316: Object165
+    400318: Object166
+    400320: Object167
+    400322: Object168
+    400324: Object169
+    400326: Object170
+    400328: Object171
+    400330: Object172
+    400332: Object173
+    400334: Object175
+    400336: rail strigh-perfect013
+    400338: rail strigh-perfect014
+    400340: rail strigh-perfect015
+    400342: rail strigh-perfect016
+    400344: rail strigh-perfect017
+    400346: rail strigh-perfect018
+    400348: rail strigh-perfect019
+    400350: rail strigh-perfect020
+    400352: rail strigh-perfect021
+    400354: rail stright283
+    400356: rail stright284
+    400358: rail stright285
+    400360: rail stright286
+    400362: rail stright287
+    400364: rail stright289
+    400366: rail stright290
+    400368: rail stright291
+    400370: rail stright293
+    400372: rail stright295
+    400374: rail stright296
+    400376: rail stright297
+    400378: rail stright298
+    400380: rail stright299
+    400382: rail stright301
+    400384: rail stright303
+    400386: rail stright305
+    400388: rail stright305_MeshPart0
+    400390: rail stright305_MeshPart1
+    400392: rail stright306
+    400394: rail stright307
+    400396: rail stright310
+    400398: rail stright320
+    400400: rail stright321
+    400402: rail stright322
+    400404: rail stright323
+    400406: rail stright324
+    400408: rail stright324_MeshPart0
+    400410: rail stright324_MeshPart1
+    400412: rail stright325
+    400414: rail stright327
+    400416: rail stright328
+    400418: rail stright329
+    400420: rail stright330
+    400422: rail stright331
+    400424: rail stright332
+    400426: rail stright333
+    400428: rail stright334
+    400430: rail stright335
+    400432: rail stright336
+    400434: rail stright337
+    400436: rail stright338
+    400438: rail stright339
+    400440: rail stright340
+    400442: rail stright342
+    400444: rail stright343
+    400446: rail stright345
+    400448: rail stright346
+    400450: rail stright348
+    400452: rail stright349
+    400454: rail stright350
+    400456: rail stright351
+    400458: rail stright352
+    400460: rail stright353
+    400462: rail stright354
+    400464: rail stright355
+    400466: rail stright358
+    400468: rail stright359
+    400470: rail stright360
+    400472: rail stright361
+    400474: rail stright362
+    400476: rail stright366
+    400478: rail stright367
+    400480: rail stright368
+    400482: rail stright369
+    400484: rail stright370
+    400486: rail stright371
+    400488: rail stright378
+    400490: rail stright381
+    400492: rail stright382
+    400494: rail stright383
+    400496: rail stright384
+    400498: rail stright385
+    400500: rail stright388
+    400502: rail stright393
+    400504: rail stright394
+    400506: rail stright395
+    400508: rail stright396
+    400510: rail stright397
+    400512: rail stright398
+    400514: rail stright399
+    400516: rail stright400
+    400518: rail stright402
+    400520: rail stright403
+    400522: rail stright404
+    400524: rail stright405
+    400526: rail stright406
+    400528: rail stright407
+    400530: rail stright409
+    400532: rail stright410
+    400534: rail stright412
+    400536: rail stright419
+    400538: rail stright421
+    400540: rail stright423
+    400542: rail stright424
+    400544: rail stright425
+    400546: rail stright426
+    400548: rail stright428
+    400550: rail stright429
+    400552: rail stright430
+    400554: rail stright431
+    400556: rail stright432
+    400558: rail stright433
+    400560: rail stright434
+    400562: rail stright435
+    400564: rail stright436
+    400566: rail stright437
+    400568: //RootNode
+    2300000: Cylinder222
+    2300002: Cylinder223
+    2300004: Cylinder224
+    2300006: Cylinder225
+    2300008: Cylinder226
+    2300010: Cylinder227
+    2300012: Cylinder232
+    2300014: Cylinder233
+    2300016: Cylinder234
+    2300018: Cylinder236
+    2300020: Cylinder238
+    2300022: Cylinder239
+    2300024: Cylinder240
+    2300026: Cylinder241
+    2300028: Cylinder242
+    2300030: Cylinder243
+    2300032: Cylinder246
+    2300034: Cylinder247
+    2300036: Cylinder249
+    2300038: Cylinder250
+    2300040: Cylinder251
+    2300042: Cylinder252
+    2300044: Cylinder255
+    2300046: Cylinder272
+    2300048: Cylinder273
+    2300050: Cylinder274
+    2300052: Cylinder275
+    2300054: Cylinder276
+    2300056: Cylinder278
+    2300058: Cylinder280
+    2300060: Cylinder281
+    2300062: Cylinder282
+    2300064: Cylinder283
+    2300066: Cylinder284
+    2300068: Cylinder285
+    2300070: Cylinder286
+    2300072: Cylinder287
+    2300074: Cylinder288
+    2300076: Cylinder289
+    2300078: Cylinder290
+    2300080: Cylinder291
+    2300082: Cylinder292
+    2300084: Cylinder293
+    2300086: Cylinder294
+    2300088: Cylinder297
+    2300090: Cylinder298
+    2300092: Cylinder299
+    2300094: Cylinder300
+    2300096: Cylinder302
+    2300098: Cylinder303
+    2300100: Cylinder304
+    2300102: Cylinder305
+    2300104: Cylinder306
+    2300106: Cylinder307
+    2300108: Cylinder308
+    2300110: Cylinder309
+    2300112: Cylinder310
+    2300114: Cylinder311
+    2300116: Cylinder314
+    2300118: Cylinder317
+    2300120: Cylinder318
+    2300122: Cylinder319
+    2300124: Cylinder320
+    2300126: Cylinder321
+    2300128: Cylinder322
+    2300130: Cylinder326
+    2300132: Cylinder327
+    2300134: Cylinder328
+    2300136: Cylinder329
+    2300138: Cylinder330
+    2300140: Cylinder331
+    2300142: Cylinder332
+    2300144: Cylinder333
+    2300146: Cylinder344
+    2300148: Cylinder345
+    2300150: Cylinder346
+    2300152: Cylinder347
+    2300154: Cylinder348
+    2300156: Cylinder349
+    2300158: Cylinder350
+    2300160: Cylinder353
+    2300162: Cylinder354
+    2300164: Cylinder355
+    2300166: Cylinder356
+    2300168: Cylinder357
+    2300170: Cylinder358
+    2300172: Cylinder361
+    2300174: Cylinder366
+    2300176: Cylinder367
+    2300178: Cylinder368
+    2300180: Cylinder369
+    2300182: Cylinder370
+    2300184: Cylinder371
+    2300186: Cylinder372
+    2300188: Cylinder373
+    2300190: Cylinder375
+    2300192: Cylinder376
+    2300194: Cylinder377
+    2300196: Cylinder378
+    2300198: Cylinder379
+    2300200: Cylinder380
+    2300202: Cylinder381
+    2300204: Cylinder382
+    2300206: Cylinder383
+    2300208: Cylinder384
+    2300210: Cylinder385
+    2300212: Cylinder386
+    2300214: Cylinder387
+    2300216: Cylinder388
+    2300218: Cylinder389
+    2300220: Cylinder390
+    2300222: Cylinder391
+    2300224: Cylinder393
+    2300226: Cylinder401
+    2300228: Cylinder402
+    2300230: Cylinder403
+    2300232: Cylinder404
+    2300234: Cylinder405
+    2300236: Cylinder406
+    2300238: Cylinder407
+    2300240: Cylinder408
+    2300242: Cylinder412
+    2300244: Cylinder413
+    2300246: Cylinder414
+    2300248: Cylinder415
+    2300250: Cylinder416
+    2300252: Cylinder418
+    2300254: Cylinder419
+    2300256: Cylinder420
+    2300258: Cylinder421
+    2300260: Cylinder422
+    2300262: Cylinder423
+    2300264: Cylinder424
+    2300266: Cylinder425
+    2300268: Cylinder426
+    2300270: Cylinder427
+    2300272: Cylinder428
+    2300274: Cylinder429
+    2300276: Cylinder430
+    2300278: Cylinder431
+    2300280: Object143
+    2300282: Object144
+    2300284: Object145
+    2300286: Object146
+    2300288: Object151
+    2300290: Object152
+    2300292: Object153
+    2300294: Object154
+    2300296: Object155
+    2300298: Object156
+    2300300: Object157
+    2300302: Object158
+    2300304: Object159
+    2300306: Object160
+    2300308: Object161
+    2300310: Object162
+    2300312: Object163
+    2300314: Object164
+    2300316: Object165
+    2300318: Object166
+    2300320: Object167
+    2300322: Object168
+    2300324: Object169
+    2300326: Object170
+    2300328: Object171
+    2300330: Object172
+    2300332: Object173
+    2300334: Object175
+    2300336: rail strigh-perfect013
+    2300338: rail strigh-perfect014
+    2300340: rail strigh-perfect015
+    2300342: rail strigh-perfect016
+    2300344: rail strigh-perfect017
+    2300346: rail strigh-perfect018
+    2300348: rail strigh-perfect019
+    2300350: rail strigh-perfect020
+    2300352: rail strigh-perfect021
+    2300354: rail stright283
+    2300356: rail stright284
+    2300358: rail stright285
+    2300360: rail stright286
+    2300362: rail stright287
+    2300364: rail stright289
+    2300366: rail stright290
+    2300368: rail stright291
+    2300370: rail stright293
+    2300372: rail stright295
+    2300374: rail stright296
+    2300376: rail stright297
+    2300378: rail stright298
+    2300380: rail stright299
+    2300382: rail stright301
+    2300384: rail stright303
+    2300386: rail stright305_MeshPart0
+    2300388: rail stright305_MeshPart1
+    2300390: rail stright306
+    2300392: rail stright307
+    2300394: rail stright310
+    2300396: rail stright320
+    2300398: rail stright321
+    2300400: rail stright322
+    2300402: rail stright323
+    2300404: rail stright324_MeshPart0
+    2300406: rail stright324_MeshPart1
+    2300408: rail stright325
+    2300410: rail stright327
+    2300412: rail stright328
+    2300414: rail stright329
+    2300416: rail stright330
+    2300418: rail stright331
+    2300420: rail stright332
+    2300422: rail stright333
+    2300424: rail stright334
+    2300426: rail stright335
+    2300428: rail stright336
+    2300430: rail stright337
+    2300432: rail stright338
+    2300434: rail stright339
+    2300436: rail stright340
+    2300438: rail stright342
+    2300440: rail stright343
+    2300442: rail stright345
+    2300444: rail stright346
+    2300446: rail stright348
+    2300448: rail stright349
+    2300450: rail stright350
+    2300452: rail stright351
+    2300454: rail stright352
+    2300456: rail stright353
+    2300458: rail stright354
+    2300460: rail stright355
+    2300462: rail stright358
+    2300464: rail stright359
+    2300466: rail stright360
+    2300468: rail stright361
+    2300470: rail stright362
+    2300472: rail stright366
+    2300474: rail stright367
+    2300476: rail stright368
+    2300478: rail stright369
+    2300480: rail stright370
+    2300482: rail stright371
+    2300484: rail stright378
+    2300486: rail stright381
+    2300488: rail stright382
+    2300490: rail stright383
+    2300492: rail stright384
+    2300494: rail stright385
+    2300496: rail stright388
+    2300498: rail stright393
+    2300500: rail stright394
+    2300502: rail stright395
+    2300504: rail stright396
+    2300506: rail stright397
+    2300508: rail stright398
+    2300510: rail stright399
+    2300512: rail stright400
+    2300514: rail stright402
+    2300516: rail stright403
+    2300518: rail stright404
+    2300520: rail stright405
+    2300522: rail stright406
+    2300524: rail stright407
+    2300526: rail stright409
+    2300528: rail stright410
+    2300530: rail stright412
+    2300532: rail stright419
+    2300534: rail stright421
+    2300536: rail stright423
+    2300538: rail stright424
+    2300540: rail stright425
+    2300542: rail stright426
+    2300544: rail stright428
+    2300546: rail stright429
+    2300548: rail stright430
+    2300550: rail stright431
+    2300552: rail stright432
+    2300554: rail stright433
+    2300556: rail stright434
+    2300558: rail stright435
+    2300560: rail stright436
+    2300562: rail stright437
+    3300000: Cylinder222
+    3300002: Cylinder223
+    3300004: Cylinder224
+    3300006: Cylinder225
+    3300008: Cylinder226
+    3300010: Cylinder227
+    3300012: Cylinder232
+    3300014: Cylinder233
+    3300016: Cylinder234
+    3300018: Cylinder236
+    3300020: Cylinder238
+    3300022: Cylinder239
+    3300024: Cylinder240
+    3300026: Cylinder241
+    3300028: Cylinder242
+    3300030: Cylinder243
+    3300032: Cylinder246
+    3300034: Cylinder247
+    3300036: Cylinder249
+    3300038: Cylinder250
+    3300040: Cylinder251
+    3300042: Cylinder252
+    3300044: Cylinder255
+    3300046: Cylinder272
+    3300048: Cylinder273
+    3300050: Cylinder274
+    3300052: Cylinder275
+    3300054: Cylinder276
+    3300056: Cylinder278
+    3300058: Cylinder280
+    3300060: Cylinder281
+    3300062: Cylinder282
+    3300064: Cylinder283
+    3300066: Cylinder284
+    3300068: Cylinder285
+    3300070: Cylinder286
+    3300072: Cylinder287
+    3300074: Cylinder288
+    3300076: Cylinder289
+    3300078: Cylinder290
+    3300080: Cylinder291
+    3300082: Cylinder292
+    3300084: Cylinder293
+    3300086: Cylinder294
+    3300088: Cylinder297
+    3300090: Cylinder298
+    3300092: Cylinder299
+    3300094: Cylinder300
+    3300096: Cylinder302
+    3300098: Cylinder303
+    3300100: Cylinder304
+    3300102: Cylinder305
+    3300104: Cylinder306
+    3300106: Cylinder307
+    3300108: Cylinder308
+    3300110: Cylinder309
+    3300112: Cylinder310
+    3300114: Cylinder311
+    3300116: Cylinder314
+    3300118: Cylinder317
+    3300120: Cylinder318
+    3300122: Cylinder319
+    3300124: Cylinder320
+    3300126: Cylinder321
+    3300128: Cylinder322
+    3300130: Cylinder326
+    3300132: Cylinder327
+    3300134: Cylinder328
+    3300136: Cylinder329
+    3300138: Cylinder330
+    3300140: Cylinder331
+    3300142: Cylinder332
+    3300144: Cylinder333
+    3300146: Cylinder344
+    3300148: Cylinder345
+    3300150: Cylinder346
+    3300152: Cylinder347
+    3300154: Cylinder348
+    3300156: Cylinder349
+    3300158: Cylinder350
+    3300160: Cylinder353
+    3300162: Cylinder354
+    3300164: Cylinder355
+    3300166: Cylinder356
+    3300168: Cylinder357
+    3300170: Cylinder358
+    3300172: Cylinder361
+    3300174: Cylinder366
+    3300176: Cylinder367
+    3300178: Cylinder368
+    3300180: Cylinder369
+    3300182: Cylinder370
+    3300184: Cylinder371
+    3300186: Cylinder372
+    3300188: Cylinder373
+    3300190: Cylinder375
+    3300192: Cylinder376
+    3300194: Cylinder377
+    3300196: Cylinder378
+    3300198: Cylinder379
+    3300200: Cylinder380
+    3300202: Cylinder381
+    3300204: Cylinder382
+    3300206: Cylinder383
+    3300208: Cylinder384
+    3300210: Cylinder385
+    3300212: Cylinder386
+    3300214: Cylinder387
+    3300216: Cylinder388
+    3300218: Cylinder389
+    3300220: Cylinder390
+    3300222: Cylinder391
+    3300224: Cylinder393
+    3300226: Cylinder401
+    3300228: Cylinder402
+    3300230: Cylinder403
+    3300232: Cylinder404
+    3300234: Cylinder405
+    3300236: Cylinder406
+    3300238: Cylinder407
+    3300240: Cylinder408
+    3300242: Cylinder412
+    3300244: Cylinder413
+    3300246: Cylinder414
+    3300248: Cylinder415
+    3300250: Cylinder416
+    3300252: Cylinder418
+    3300254: Cylinder419
+    3300256: Cylinder420
+    3300258: Cylinder421
+    3300260: Cylinder422
+    3300262: Cylinder423
+    3300264: Cylinder424
+    3300266: Cylinder425
+    3300268: Cylinder426
+    3300270: Cylinder427
+    3300272: Cylinder428
+    3300274: Cylinder429
+    3300276: Cylinder430
+    3300278: Cylinder431
+    3300280: Object143
+    3300282: Object144
+    3300284: Object145
+    3300286: Object146
+    3300288: Object151
+    3300290: Object152
+    3300292: Object153
+    3300294: Object154
+    3300296: Object155
+    3300298: Object156
+    3300300: Object157
+    3300302: Object158
+    3300304: Object159
+    3300306: Object160
+    3300308: Object161
+    3300310: Object162
+    3300312: Object163
+    3300314: Object164
+    3300316: Object165
+    3300318: Object166
+    3300320: Object167
+    3300322: Object168
+    3300324: Object169
+    3300326: Object170
+    3300328: Object171
+    3300330: Object172
+    3300332: Object173
+    3300334: Object175
+    3300336: rail strigh-perfect013
+    3300338: rail strigh-perfect014
+    3300340: rail strigh-perfect015
+    3300342: rail strigh-perfect016
+    3300344: rail strigh-perfect017
+    3300346: rail strigh-perfect018
+    3300348: rail strigh-perfect019
+    3300350: rail strigh-perfect020
+    3300352: rail strigh-perfect021
+    3300354: rail stright283
+    3300356: rail stright284
+    3300358: rail stright285
+    3300360: rail stright286
+    3300362: rail stright287
+    3300364: rail stright289
+    3300366: rail stright290
+    3300368: rail stright291
+    3300370: rail stright293
+    3300372: rail stright295
+    3300374: rail stright296
+    3300376: rail stright297
+    3300378: rail stright298
+    3300380: rail stright299
+    3300382: rail stright301
+    3300384: rail stright303
+    3300386: rail stright305_MeshPart0
+    3300388: rail stright305_MeshPart1
+    3300390: rail stright306
+    3300392: rail stright307
+    3300394: rail stright310
+    3300396: rail stright320
+    3300398: rail stright321
+    3300400: rail stright322
+    3300402: rail stright323
+    3300404: rail stright324_MeshPart0
+    3300406: rail stright324_MeshPart1
+    3300408: rail stright325
+    3300410: rail stright327
+    3300412: rail stright328
+    3300414: rail stright329
+    3300416: rail stright330
+    3300418: rail stright331
+    3300420: rail stright332
+    3300422: rail stright333
+    3300424: rail stright334
+    3300426: rail stright335
+    3300428: rail stright336
+    3300430: rail stright337
+    3300432: rail stright338
+    3300434: rail stright339
+    3300436: rail stright340
+    3300438: rail stright342
+    3300440: rail stright343
+    3300442: rail stright345
+    3300444: rail stright346
+    3300446: rail stright348
+    3300448: rail stright349
+    3300450: rail stright350
+    3300452: rail stright351
+    3300454: rail stright352
+    3300456: rail stright353
+    3300458: rail stright354
+    3300460: rail stright355
+    3300462: rail stright358
+    3300464: rail stright359
+    3300466: rail stright360
+    3300468: rail stright361
+    3300470: rail stright362
+    3300472: rail stright366
+    3300474: rail stright367
+    3300476: rail stright368
+    3300478: rail stright369
+    3300480: rail stright370
+    3300482: rail stright371
+    3300484: rail stright378
+    3300486: rail stright381
+    3300488: rail stright382
+    3300490: rail stright383
+    3300492: rail stright384
+    3300494: rail stright385
+    3300496: rail stright388
+    3300498: rail stright393
+    3300500: rail stright394
+    3300502: rail stright395
+    3300504: rail stright396
+    3300506: rail stright397
+    3300508: rail stright398
+    3300510: rail stright399
+    3300512: rail stright400
+    3300514: rail stright402
+    3300516: rail stright403
+    3300518: rail stright404
+    3300520: rail stright405
+    3300522: rail stright406
+    3300524: rail stright407
+    3300526: rail stright409
+    3300528: rail stright410
+    3300530: rail stright412
+    3300532: rail stright419
+    3300534: rail stright421
+    3300536: rail stright423
+    3300538: rail stright424
+    3300540: rail stright425
+    3300542: rail stright426
+    3300544: rail stright428
+    3300546: rail stright429
+    3300548: rail stright430
+    3300550: rail stright431
+    3300552: rail stright432
+    3300554: rail stright433
+    3300556: rail stright434
+    3300558: rail stright435
+    3300560: rail stright436
+    3300562: rail stright437
+    4300000: rail stright283
+    4300002: Cylinder222
+    4300004: rail stright284
+    4300006: Cylinder223
+    4300008: rail stright285
+    4300010: Cylinder224
+    4300012: rail stright286
+    4300014: Cylinder225
+    4300016: rail stright287
+    4300018: Cylinder226
+    4300020: rail strigh-perfect013
+    4300022: Cylinder227
+    4300024: rail stright289
+    4300026: Cylinder232
+    4300028: rail stright290
+    4300030: Cylinder233
+    4300032: rail stright291
+    4300034: Cylinder234
+    4300036: rail stright293
+    4300038: Cylinder236
+    4300040: rail stright295
+    4300042: Cylinder238
+    4300044: rail stright296
+    4300046: Cylinder239
+    4300048: rail strigh-perfect014
+    4300050: Cylinder240
+    4300052: rail stright297
+    4300054: Cylinder241
+    4300056: rail stright298
+    4300058: Cylinder243
+    4300060: rail stright299
+    4300062: Cylinder242
+    4300064: rail stright301
+    4300066: Cylinder246
+    4300068: rail stright303
+    4300070: Cylinder247
+    4300072: rail stright305_MeshPart0
+    4300074: rail stright305_MeshPart1
+    4300076: Cylinder249
+    4300078: rail stright306
+    4300080: Cylinder250
+    4300082: rail stright307
+    4300084: Cylinder251
+    4300086: rail strigh-perfect015
+    4300088: Cylinder252
+    4300090: rail stright310
+    4300092: Cylinder255
+    4300094: rail stright320
+    4300096: Cylinder272
+    4300098: rail stright321
+    4300100: Cylinder273
+    4300102: rail stright322
+    4300104: Cylinder274
+    4300106: rail stright323
+    4300108: Cylinder275
+    4300110: rail stright324_MeshPart0
+    4300112: rail stright324_MeshPart1
+    4300114: Cylinder276
+    4300116: rail stright325
+    4300118: Cylinder278
+    4300120: rail stright327
+    4300122: Cylinder280
+    4300124: rail stright328
+    4300126: Cylinder281
+    4300128: rail stright329
+    4300130: Cylinder282
+    4300132: rail stright330
+    4300134: Cylinder283
+    4300136: rail stright331
+    4300138: Cylinder285
+    4300140: rail stright332
+    4300142: Cylinder284
+    4300144: rail stright333
+    4300146: Cylinder286
+    4300148: rail stright334
+    4300150: Cylinder287
+    4300152: rail stright335
+    4300154: Cylinder288
+    4300156: rail stright336
+    4300158: Cylinder289
+    4300160: rail stright337
+    4300162: Cylinder291
+    4300164: rail stright338
+    4300166: Cylinder292
+    4300168: rail stright339
+    4300170: Cylinder290
+    4300172: rail strigh-perfect016
+    4300174: Cylinder293
+    4300176: rail stright340
+    4300178: Cylinder294
+    4300180: rail stright342
+    4300182: Cylinder297
+    4300184: rail stright343
+    4300186: Cylinder298
+    4300188: rail stright345
+    4300190: Cylinder299
+    4300192: rail stright346
+    4300194: Cylinder300
+    4300196: rail strigh-perfect017
+    4300198: Cylinder302
+    4300200: rail stright348
+    4300202: Cylinder303
+    4300204: rail stright349
+    4300206: Cylinder304
+    4300208: rail stright350
+    4300210: Cylinder305
+    4300212: rail stright351
+    4300214: Cylinder306
+    4300216: rail stright352
+    4300218: Cylinder308
+    4300220: rail stright353
+    4300222: Cylinder307
+    4300224: rail stright354
+    4300226: Cylinder309
+    4300228: rail stright355
+    4300230: Cylinder310
+    4300232: rail strigh-perfect018
+    4300234: Cylinder311
+    4300236: rail stright358
+    4300238: Cylinder314
+    4300240: Object143
+    4300242: Cylinder318
+    4300244: Object144
+    4300246: Cylinder317
+    4300248: rail stright359
+    4300250: Cylinder322
+    4300252: rail stright360
+    4300254: Cylinder319
+    4300256: rail stright361
+    4300258: Cylinder320
+    4300260: rail stright362
+    4300262: Cylinder321
+    4300264: rail stright366
+    4300266: Cylinder326
+    4300268: rail stright367
+    4300270: Cylinder327
+    4300272: rail stright368
+    4300274: Cylinder329
+    4300276: rail stright369
+    4300278: Cylinder328
+    4300280: rail stright370
+    4300282: Cylinder330
+    4300284: rail stright371
+    4300286: Cylinder331
+    4300288: Object145
+    4300290: Cylinder333
+    4300292: Object146
+    4300294: Cylinder332
+    4300296: Object151
+    4300298: Cylinder345
+    4300300: Object152
+    4300302: Cylinder344
+    4300304: rail stright378
+    4300306: Cylinder346
+    4300308: Object153
+    4300310: Cylinder348
+    4300312: Object154
+    4300314: Cylinder349
+    4300316: Object155
+    4300318: Cylinder350
+    4300320: Object156
+    4300322: Cylinder347
+    4300324: rail stright381
+    4300326: Cylinder353
+    4300328: rail stright382
+    4300330: Cylinder354
+    4300332: rail stright383
+    4300334: Cylinder355
+    4300336: rail stright384
+    4300338: Cylinder356
+    4300340: rail stright385
+    4300342: Cylinder357
+    4300344: rail strigh-perfect019
+    4300346: Cylinder358
+    4300348: rail stright388
+    4300350: Cylinder361
+    4300352: rail stright393
+    4300354: Cylinder367
+    4300356: rail stright394
+    4300358: Cylinder366
+    4300360: rail stright395
+    4300362: Cylinder369
+    4300364: rail stright396
+    4300366: Cylinder368
+    4300368: rail stright397
+    4300370: Cylinder371
+    4300372: rail stright398
+    4300374: Cylinder372
+    4300376: rail stright399
+    4300378: Cylinder370
+    4300380: rail stright400
+    4300382: Cylinder373
+    4300384: rail stright402
+    4300386: Cylinder375
+    4300388: rail stright403
+    4300390: Cylinder376
+    4300392: rail stright404
+    4300394: Cylinder377
+    4300396: rail stright405
+    4300398: Cylinder378
+    4300400: rail strigh-perfect020
+    4300402: Cylinder379
+    4300404: rail stright406
+    4300406: Cylinder380
+    4300408: rail stright407
+    4300410: Cylinder381
+    4300412: Object157
+    4300414: Cylinder383
+    4300416: Object158
+    4300418: Cylinder384
+    4300420: Object159
+    4300422: Cylinder385
+    4300424: Object160
+    4300426: Cylinder382
+    4300428: Object161
+    4300430: Cylinder387
+    4300432: Object162
+    4300434: Cylinder388
+    4300436: Object163
+    4300438: Cylinder389
+    4300440: Object164
+    4300442: Cylinder386
+    4300444: rail stright409
+    4300446: Cylinder390
+    4300448: rail stright410
+    4300450: Cylinder391
+    4300452: rail stright412
+    4300454: Cylinder393
+    4300456: Object165
+    4300458: Cylinder402
+    4300460: Object166
+    4300462: Cylinder401
+    4300464: rail stright419
+    4300466: Cylinder404
+    4300468: rail stright421
+    4300470: Cylinder403
+    4300472: Object167
+    4300474: Cylinder406
+    4300476: Object168
+    4300478: Cylinder407
+    4300480: Object169
+    4300482: Cylinder405
+    4300484: Object170
+    4300486: Cylinder408
+    4300488: rail stright423
+    4300490: Cylinder412
+    4300492: rail stright424
+    4300494: Cylinder413
+    4300496: rail stright425
+    4300498: Cylinder415
+    4300500: rail strigh-perfect021
+    4300502: Cylinder414
+    4300504: rail stright426
+    4300506: Cylinder420
+    4300508: rail stright428
+    4300510: Cylinder418
+    4300512: rail stright429
+    4300514: Cylinder419
+    4300516: rail stright430
+    4300518: Cylinder416
+    4300520: rail stright431
+    4300522: Cylinder421
+    4300524: rail stright432
+    4300526: Cylinder422
+    4300528: rail stright433
+    4300530: Cylinder423
+    4300532: rail stright434
+    4300534: Cylinder425
+    4300536: rail stright435
+    4300538: Cylinder424
+    4300540: rail stright436
+    4300542: Cylinder426
+    4300544: rail stright437
+    4300546: Cylinder427
+    4300548: Object171
+    4300550: Cylinder428
+    4300552: Object172
+    4300554: Cylinder429
+    4300556: Object173
+    4300558: Cylinder431
+    4300560: Object175
+    4300562: Cylinder430
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
