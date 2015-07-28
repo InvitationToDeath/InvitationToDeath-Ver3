@@ -44,7 +44,7 @@ public class PlayerCtrl : MonoBehaviour
         mNetworkView.observed = this;
 
         //if (mNetworkView.isMine)
-        this.gameObject.transform.parent = GameObject.Find("CoalTrain").transform;
+        this.gameObject.transform.parent = GameObject.Find("RotX").transform;
         //else
         //    this.gameObject.transform.parent = GameObject.Find("CoalTrain").transform;
 

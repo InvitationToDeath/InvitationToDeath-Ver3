@@ -78,8 +78,8 @@ public class DevilCtrl : MonoBehaviour
                 //몬스터의 플레이어 사이의 거리 측정.
                 float dist = Vector3.Distance(playerTr.position, monsterTr.position);
 
-                if (Network.peerType == NetworkPeerType.Server)
-                {
+                //if (Network.peerType == NetworkPeerType.Server)
+                //{
                 if (dist <= attackDist) //공격 범위 이내로 들어왔는지 확인.
                     monsterState = MonsterState.attack;
                 else if (dist <= traceDist) //추적거리 범위 이내로 들어왔는지 확인.
@@ -87,7 +87,7 @@ public class DevilCtrl : MonoBehaviour
                 else //몬스터의 상태를 idle 모드로 설정.
                     monsterState = MonsterState.idle;
                 
-                }
+                //}
             }
     }
 
